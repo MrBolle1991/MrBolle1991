@@ -1,7 +1,7 @@
 <h2 align="center"> Hey I'am Marc</h2>
 
 <p align="center">
-  <a href="https://www.instagram.com/Bolle1991/" target="_blank">Instagram</a> •
+  <a href="https://www.instagram.com/marcuso_1991/" target="_blank">Instagram</a> •
   <a href="#" target="_blank">Discord</a>
 </p>
 
