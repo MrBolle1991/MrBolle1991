@@ -10,9 +10,8 @@
     user = 'Marc Langmann'
 	current_edu = "GFN"
     currently_learning = "software development"
-    fun_fact = ""
 	hobbies = [
-				'Graphic design',
+				'Photo Editing',
 				'Gaming',
 				'Cycling',
 				'Movies'
