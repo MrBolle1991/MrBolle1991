@@ -20,7 +20,6 @@
 	
 	def Ambitions():
 		BecomeSoftwareDev()
-		FinishMyProjects()
 	
  ```
 ***
