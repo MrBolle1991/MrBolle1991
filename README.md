@@ -31,7 +31,7 @@ const Marc = {
   code: ["Python", "SQL"],
   askMeAbout: ["tech", "graphic design"],
   technologies: {
-	backend: ["Python", "PHP", "Django"]
+	backend: ["Python", "PHP"]
   }
 }
 ```
