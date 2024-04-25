@@ -28,7 +28,7 @@
 #### A little more about me
 ```javascript
 const Marc = {
-  code: ["Python", "SQL"],
+  code: ["Python", "C#"],
   askMeAbout: ["tech", "graphic design"],
   technologies: {
 	backend: ["Python", "PHP"]
