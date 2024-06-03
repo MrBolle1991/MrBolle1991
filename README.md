@@ -28,10 +28,10 @@
 #### A little more about me
 ```javascript
 const Marc = {
-  code: ["Python", "C#"],
-  askMeAbout: ["tech", "graphic design"],
+  code: ["Python", "C#", "Java"],
+  askMeAbout: ["tech", "graphic design", "hardware", "games"],
   technologies: {
-	backend: ["Python", "PHP"]
+	backend: ["PHP", "HTML"]
   }
 }
 ```
